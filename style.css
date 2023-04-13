@@ -80,4 +80,8 @@ h1 {
 	.description {
 		text-align: center;
 	}
+	.photo {
+		width: 120px;
+		height: 120px;
+	}
 }
